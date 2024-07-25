@@ -12,5 +12,5 @@
 
 ## 📊 GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=werismitt&theme=neon&show_icons=true)
+![Werismitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=werismitt&theme=neon&show_icons=true)
 
