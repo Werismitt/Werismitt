@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Werismitt/Werismitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hellow World](https://i.imgur.com/rR1jWNz.gif)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 Sobre mim
+💜 Descobrindo uma paixão pela tecnologia <br>
+🎓 Fonoaudióloga <br>
+🎯 Mirando na transição de carreira <br>
+📚 Uma eterna aprendiz <br>
+
+## 📊 GitHub Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=werismitt&theme=nightowl&show_icons=true)
+
